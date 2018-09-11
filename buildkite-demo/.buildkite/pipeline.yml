@@ -1,0 +1,5 @@
+steps:
+  - label: ":tada: :llama: :taco: Example Test"
+    command: echo "Hello!"
+    agents:
+      queue: ledgercache-dev
