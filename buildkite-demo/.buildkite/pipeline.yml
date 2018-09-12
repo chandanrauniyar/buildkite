@@ -2,4 +2,4 @@ steps:
   - label: ":tada: :llama: :taco: Example Test"
     command: echo "Hello!"
     agents: &dev-queue
-      queue: nebula-dev-dflt
+      queue: neb-dev-dflt
